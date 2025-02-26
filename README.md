@@ -17,4 +17,7 @@
 ![psc (1)](https://github.com/user-attachments/assets/3b66d909-9b2e-4da9-8d92-85fa1550cc49)
 
 ## 关于后端
-应公司要求 后端闭源
+后端是基于SPRINGBOOT 使用了 REDIS MYBATISPLUS MINIO FASTJSON 等
+无快速开发框架
+也是我开发的 
+但是 应公司要求 后端闭源
