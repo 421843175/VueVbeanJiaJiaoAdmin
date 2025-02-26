@@ -1,6 +1,7 @@
 # 基于VUE VBEANADMIN 二开的家教管理系统
 
 ## 项目说明
+这是我实习时候为家教互联网公司全栈开发的新的项目
 基于[Vue Vben Admin](https://github.com/anncwb/vue-vben-admin/) 改造适配的适用于企业级的家教后端管理系统
 包含
 锁屏  多用户 多任务 多权限组 
@@ -20,4 +21,4 @@
 后端是基于SPRINGBOOT 使用了 REDIS MYBATISPLUS MINIO FASTJSON 等
 无快速开发框架
 也是我开发的 
-但是 应公司要求 后端闭源
+但是 应原实习公司要求 后端闭源
