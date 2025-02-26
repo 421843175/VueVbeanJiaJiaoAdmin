@@ -16,6 +16,8 @@
 ![psc (3)](https://github.com/user-attachments/assets/aefba251-7dee-49eb-ace7-9d746507a953)
 ![psc (2)](https://github.com/user-attachments/assets/054e6d13-09ba-4ca6-816c-2588da4b2803)
 ![psc (1)](https://github.com/user-attachments/assets/3b66d909-9b2e-4da9-8d92-85fa1550cc49)
+![psc (5)](https://github.com/user-attachments/assets/957b5b30-438f-4b27-9ee0-a2843b4cda96)
+![psc (4)](https://github.com/user-attachments/assets/e8e28467-0399-44bf-85be-5216e9fc6716)
 
 ## 关于后端
 后端是基于SPRINGBOOT 使用了 REDIS MYBATISPLUS MINIO FASTJSON 等
